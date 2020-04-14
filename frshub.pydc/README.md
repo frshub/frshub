@@ -1,4 +1,4 @@
-# frshub
+# frshub.pydc
 This library makes it easy to interact with the frshub REST API
 
 ### Install on Windows - english
