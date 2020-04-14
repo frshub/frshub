@@ -1,4 +1,4 @@
-# frshub.pydc | frshub python dataclient
+# frshub.pydc | frshub secured dataclient
 
 This dataclient connects your data securely to the frshub.
 
