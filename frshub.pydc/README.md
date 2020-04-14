@@ -1,5 +1,6 @@
-# frshub.pydc
-This library makes it easy to interact with the frshub REST API
+# frshub.pydc | frshub python dataclient
+
+This dataclient connects your data securely to the frshub.
 
 ### Install on Windows - english
 
@@ -20,3 +21,6 @@ This library makes it easy to interact with the frshub REST API
 - Platzieren Sie diese `frshub.pydc.ini` Datei im gleichen Ordner (z.B. `C:\frshub`)
 - Konfigurieren Sie den `windows job scheduler` so, dass `frshub.pydc.exe` regelmäßig ausgeführt wird (mindestens einmal pro Tag - je nach Bedarf)
 - Achtung: `frshub.pydc.exe` muss mit Admin-Rechten gestartet werden
+
+
+Copyright (c) 2017-2020 Fischer Retail Solutions GmbH. All Rights Reserved.
