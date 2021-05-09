@@ -23,4 +23,4 @@ This dataclient connects your data securely to the frshub.
 - Achtung: `frshub.pydc.exe` muss mit Admin-Rechten gestartet werden
 
 
-Copyright (c) 2017-2020 Fischer Retail Solutions GmbH. All Rights Reserved.
+Copyright (c) 2017-2021 Fischer Retail Solutions GmbH. All Rights Reserved.
